@@ -1,14 +1,12 @@
 {
   "dependencies": {
     "axios": "^0.27.2",
+    "express": "^4.18.1",
     "sass": "^1.53.0"
   },
   "name": "desafio-rocketflix",
   "version": "1.0.0",
   "main": "main.mjs",
-  "scripts": {
-    "dev": "node main.mjs"
-  },
   "author": "",
   "license": "ISC",
   "description": ""
